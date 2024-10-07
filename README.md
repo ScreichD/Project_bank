@@ -18,8 +18,7 @@
 * git clone https://github.com/ScreichD/Project_bank.git
 
 2.Установить не обходимые зависимости
-* pip install -r requirements.txt
-* Немного подождать
+
 ## Команда проекта:
 * Насридинов Дильшод — Back-End 
 ## Контакт для связи с командой разработки:
